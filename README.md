@@ -19,11 +19,7 @@
 - Resolution: 10-bit
 - Technology: FinFET
 - Process Node: ASAP7nm PDK
-- Components:
- ```
-      Operational Amplifier (Opamp)
-      Resistor Ladder (R2R)
-```
+- Components: Operational Amplifier(Opamp), Resistor Ladder(R2R)
 
 
 ## Project Overview
@@ -38,8 +34,7 @@
 
 - In this design of 10-bit R2R DAC, a CMOS 2-stage operational amplifier (Op-Amp) is a critical component for the proper functioning of the R-2R DAC. This topology is highly favored in analog circuit design due to its ability to provide both high gain and the flexibility to drive low-impedance loads effectively. The CMOS 2-stage Op-Amp consists of two key stages:
 
-The first stage is a differential amplifier, responsible for achieving a high gain and rejecting common-mode signals.
-The second stage further amplifies the signal, ensuring that the Op-Amp can drive loads with significant current demands while maintaining stability and performance.
+- The CMOS 2-stage Op-Amp consists of two key stages: The first stage is a differential amplifier, responsible for achieving a high gain and rejecting common-mode signals.The second stage further amplifies the signal, ensuring that the Op-Amp can drive loads with significant current demands while maintaining stability and performance.
 
 ### Simulations and Results
 
@@ -49,7 +44,16 @@ The second stage further amplifies the signal, ensuring that the Op-Amp can driv
 
 ![opamp_op](https://github.com/user-attachments/assets/bcb113a6-a379-4529-bcd3-5bdd5ec140ef)
 
-- From the output, Gain of the Op-Amp = 3.355.
+- From the above waveform, Gain of the Op-Amp = 3.355.
 
 #### 2. 4-bit R2R DAC:
+
+![Screenshot from 2024-10-14 21-34-45](https://github.com/user-attachments/assets/4c5274e7-f1da-407c-a509-aeacfbdf0d07)
+
+
+
+#### 3. 10-bit R2R DAC:
+
+![Screenshot from 2024-10-15 00-39-41](https://github.com/user-attachments/assets/8426bb28-919b-467e-bc2f-6941197fb819)
+
 
