@@ -1,4 +1,4 @@
-# avsddac_7nm
+# 10-bit R-2R Digital to Analog Converter (DAC)
 
 ## Table of Contents
 - ASAP 7nm PDK
@@ -24,7 +24,7 @@
 - Components: Operational Amplifier(Opamp), Resistor Ladder(R2R)
 
 
-## Project Overview
+## Project Overview:
 
 - The R2R ladder DAC is a widely used architecture for digital-to-analog conversion due to its simplicity and scalability. In this design, the ladder structure uses resistors with two values: R and 2R, arranged in a network to divide the input voltages according to the digital input bits. The output is an analog voltage corresponding to the binary-weighted sum of the input digital bits.
 - It converts a digital input (binary) to an analog output by leveraging the voltage division principle.
@@ -32,7 +32,7 @@
 ![image](https://github.com/user-attachments/assets/a161f52b-cae2-4f8b-ae12-313794923725)
 
 
-### Operational Amplifier (Op-Amp)
+## Operational Amplifier (Op-Amp):
 
 - In this design of 10-bit R2R DAC, a CMOS 2-stage operational amplifier (Op-Amp) is a critical component for the proper functioning of the R-2R DAC. This topology is highly favored in analog circuit design due to its ability to provide both high gain and the flexibility to drive low-impedance loads effectively. The CMOS 2-stage Op-Amp consists of two key stages:
 
@@ -40,7 +40,7 @@
 
 
 
-### Simulations and Results
+## Simulations and Results:
 
 ### 1. Op-Amp:
 
@@ -65,6 +65,6 @@
 
 
 
-### Characterization Table
-### **Conclusion**
+## Characterization Table:
+## Conclusion:
 
