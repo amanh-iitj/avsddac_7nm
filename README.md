@@ -4,7 +4,9 @@
 - ASAP 7nm PDK
 - Design Specifications
 - Project Overview
+- Operational Amplifier(Op-Amp)
 - Simulations and Results
+- Characterization Table
 - Conclusion
 
 ## ASAP 7nm PDK
@@ -36,9 +38,11 @@
 
 - The CMOS 2-stage Op-Amp consists of two key stages: The first stage is a differential amplifier, responsible for achieving a high gain and rejecting common-mode signals.The second stage further amplifies the signal, ensuring that the Op-Amp can drive loads with significant current demands while maintaining stability and performance.
 
+
+
 ### Simulations and Results
 
-#### 1. Op-Amp:
+### 1. Op-Amp:
 
 ![opamp_sch](https://github.com/user-attachments/assets/ab56ec57-fa16-4760-8385-eadd4ab26606)
 
@@ -46,14 +50,21 @@
 
 - From the above waveform, Gain of the Op-Amp = 3.355.
 
-#### 2. 4-bit R2R DAC:
+### 2. 4-bit R2R DAC:
 
 ![Screenshot from 2024-10-14 21-34-45](https://github.com/user-attachments/assets/4c5274e7-f1da-407c-a509-aeacfbdf0d07)
 
 
 
-#### 3. 10-bit R2R DAC:
+### 3. 10-bit R2R DAC:
 
 ![Screenshot from 2024-10-15 00-39-41](https://github.com/user-attachments/assets/8426bb28-919b-467e-bc2f-6941197fb819)
 
+
+
+
+
+
+### Characterization Table
+### **Conclusion**
 
