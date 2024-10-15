@@ -6,16 +6,16 @@
 - Project Overview
 - Operational Amplifier(Op-Amp)
 - Simulations and Results
-- Characterization Table
+- Design Characterization
 - Conclusion
 
-## ASAP 7nm PDK
+## ASAP 7nm PDK:
 - The ASAP7 7nm PDK is an open-source Process Design Kit developed by Arizona State University in collaboration with ARM Research. It is a predictive PDK that models a 7nm FinFET technology node, aiming to provide realistic performance estimates for advanced semiconductor designs. ASAP7 is designed to enable research and academic projects in areas such as VLSI design, circuit optimization, and emerging technology exploration. It includes standard cell libraries, device models, parasitics, and design rules based on FinFET technology.
 
 
 
 
-## Design Specifications
+## Design Specifications:
 
 - DAC Type: R2R Ladder
 - Resolution: 10-bit
