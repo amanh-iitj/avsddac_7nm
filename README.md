@@ -44,8 +44,6 @@
 
 ### 1. Op-Amp:
 
-![opamp_sch](https://github.com/user-attachments/assets/ab56ec57-fa16-4760-8385-eadd4ab26606)
-
 ![opamp_op](https://github.com/user-attachments/assets/bcb113a6-a379-4529-bcd3-5bdd5ec140ef)
 
 - From the above waveform, Gain of the Op-Amp = 3.355.
