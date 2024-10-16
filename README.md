@@ -111,4 +111,5 @@
 
 ## Acknowledgement: 
 - Kunal Ghosh, Co-Founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+- Dr. Skandha Deepsita, Teaching Assistant, VLSI System Design (VSD) Corp. Pvt. Ltd.
 
