@@ -41,11 +41,11 @@
 - The R2R ladder DAC is a widely used architecture for digital-to-analog conversion due to its simplicity and scalability. In this design, the ladder structure uses resistors with two values: R and 2R, arranged in a network to divide the input voltages according to the digital input bits. The output is an analog voltage corresponding to the binary-weighted sum of the input digital bits.
 - It converts a digital input (binary) to an analog output by leveraging the voltage division principle.
 
-- Circuit diagram of 4-bit R-2R DAC is shown below:
+#### Circuit diagram of 4-bit R-2R DAC:
 
 ![prasa6-p6-prasa-large](https://github.com/user-attachments/assets/12b9db05-1492-4adb-8547-f73862aeefbe)
 
-- Circuit diagram of 10-bit R-2R DAC is shown below:
+#### Circuit diagram of 10-bit R-2R DAC:
  
 ![Fig2-DAC-Circuits](https://github.com/user-attachments/assets/741c69af-22da-4b54-8807-35c5f4e62fab)
 
