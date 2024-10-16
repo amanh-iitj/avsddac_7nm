@@ -72,7 +72,7 @@
 |---------------|-------------|------------------------------------|----------|-------|
 | 1             | TECH          | Technology  | FinFET        | -    |
 | 2             | NODE          | Process Node  | 7        | nm    |
-| 3             | RES    | Resolution| 10        | -    |
+| 3             | RES    | Resolution| 10        | bit   |
 | 4             | TEMP       | Operating Temperature  | 27      | °C    |
 | 5             | TNOM     | Nominal Temperature    | 27      | °C    |
 | 6             | VDD         | Power supply voltage               | 0.7      | V     |
