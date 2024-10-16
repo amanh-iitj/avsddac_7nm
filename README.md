@@ -44,19 +44,19 @@
 
 ## Simulations and Results:
 
-### 1. Op-Amp:
+### 1) Op-Amp:
 
 ![opamp_op](https://github.com/user-attachments/assets/bcb113a6-a379-4529-bcd3-5bdd5ec140ef)
 
 - From the above waveform, Gain of the Op-Amp = 3.355.
 
-### 2. 4-bit R2R DAC:
+### 2) 4-bit R2R DAC:
 
 ![Screenshot from 2024-10-14 21-34-45](https://github.com/user-attachments/assets/4c5274e7-f1da-407c-a509-aeacfbdf0d07)
 
 
 
-### 3. 10-bit R2R DAC:
+### 3) 10-bit R2R DAC:
 
 ![Screenshot from 2024-10-15 00-39-41](https://github.com/user-attachments/assets/8426bb28-919b-467e-bc2f-6941197fb819)
 
