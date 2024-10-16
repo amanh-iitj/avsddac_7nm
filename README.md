@@ -101,11 +101,13 @@
 
 ## Conclusion:
 - In this project, I successfully designed and implemented a 10-bit R2R Digital-to-Analog Converter (DAC) using the ASAP7 7nm FinFET PDK. The design integrates an R2R resistor ladder architecture with a CMOS 2-stage operational amplifier (Op-Amp) to achieve accurate and efficient digital-to-analog conversion.
-Key performance metrics such as the full-scale output voltage of 0.607V and a total power consumption of 47.83 μW were achieved, demonstrating the efficacy of the design in a 7nm FinFET process. The 10-bit resolution provides a high degree of precision suitable for advanced analog-mixed signal applications. This design showcases the potential of FinFET-based circuits in modern semiconductor technologies, offering a reliable and scalable solution for low-power, high-performance applications.
+ 
+- Key performance metrics such as the full-scale output voltage of 0.607V and a total power consumption of 47.83 μW were achieved, demonstrating the efficacy of the design in a 7nm FinFET process. The 10-bit resolution provides a high degree of precision suitable for advanced analog-mixed signal applications. This design showcases the potential of FinFET-based circuits in modern semiconductor technologies, offering a reliable and scalable solution for low-power, high-performance applications.
 
 ## References:
 - Prasad, S. Rajendra, et al. "An Efficient and Low Power 45nm CMOS Based R-2R DAC." 2023 4th International Conference for Emerging Technology (INCET). IEEE, 2023.
 - [avsddac_3v3_sky130_v2 - 10-bit DAC Design Using SKY130 Process](https://github.com/vsdip/avsddac_3v3_sky130_v2#10-bit-dac)
+- [DAC Circuits - Analog CMOS Design](https://www.electronics-tutorial.net/Analog-CMOS-Design/Signal-Conditioning/DAC-Circuits/)
 
 ## Acknowledgement: 
 - Kunal Ghosh, Co-Founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
