@@ -4,7 +4,6 @@
 - ASAP 7nm PDK
 - Design Specifications
 - Project Overview
-- Operational Amplifier(Op-Amp)
 - Simulations and Results
 - Design Characterization
 - Conclusion
@@ -34,13 +33,23 @@
 
 - The CMOS 2-stage Op-Amp consists of two key stages: The first stage is a differential amplifier, responsible for achieving a high gain and rejecting common-mode signals.The second stage further amplifies the signal, ensuring that the Op-Amp can drive loads with significant current demands while maintaining stability and performance.
 
+![Block-diagram-of-two-stage-op-amp](https://github.com/user-attachments/assets/c9aa4ae0-6a64-4b9d-ba9e-0aac6a8e3dfe)
 
-### R-2R DAC:
+
+### R2R ladder DAC:
 
 - The R2R ladder DAC is a widely used architecture for digital-to-analog conversion due to its simplicity and scalability. In this design, the ladder structure uses resistors with two values: R and 2R, arranged in a network to divide the input voltages according to the digital input bits. The output is an analog voltage corresponding to the binary-weighted sum of the input digital bits.
 - It converts a digital input (binary) to an analog output by leveraging the voltage division principle.
 
-![image](https://github.com/user-attachments/assets/a161f52b-cae2-4f8b-ae12-313794923725)
+- Circuit diagram of 4-bit R-2R DAC is shown below:
+
+![prasa6-p6-prasa-large](https://github.com/user-attachments/assets/12b9db05-1492-4adb-8547-f73862aeefbe)
+
+- Circuit diagram of 10-bit R-2R DAC is shown below:
+ 
+![Fig2-DAC-Circuits](https://github.com/user-attachments/assets/741c69af-22da-4b54-8807-35c5f4e62fab)
+
+
 
 
 
@@ -70,7 +79,9 @@
 
 
 
-## Characterization Table:
+## Design Characterization:
+
+- The 10-bit R-2R DAC is characterized in the table below:
 
 
 | Serial Number | Parameter   | Description                        | Value    | Unit  |
@@ -89,8 +100,13 @@
 
 
 ## Conclusion:
+- In this project, I successfully designed and implemented a 10-bit R2R Digital-to-Analog Converter (DAC) using the ASAP7 7nm FinFET PDK. The design integrates an R2R resistor ladder architecture with a CMOS 2-stage operational amplifier (Op-Amp) to achieve accurate and efficient digital-to-analog conversion.
+Key performance metrics such as the full-scale output voltage of 0.607V and a total power consumption of 47.83 μW were achieved, demonstrating the efficacy of the design in a 7nm FinFET process. The 10-bit resolution provides a high degree of precision suitable for advanced analog-mixed signal applications. This design showcases the potential of FinFET-based circuits in modern semiconductor technologies, offering a reliable and scalable solution for low-power, high-performance applications.
 
 ## References:
+- Prasad, S. Rajendra, et al. "An Efficient and Low Power 45nm CMOS Based R-2R DAC." 2023 4th International Conference for Emerging Technology (INCET). IEEE, 2023.
+- [avsddac_3v3_sky130_v2 - 10-bit DAC Design Using SKY130 Process](https://github.com/vsdip/avsddac_3v3_sky130_v2#10-bit-dac)
 
 ## Acknowledgement: 
+- Kunal Ghosh, Co-Founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
 
