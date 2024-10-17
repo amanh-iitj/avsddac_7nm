@@ -1,4 +1,4 @@
-# 10-bit R-2R Digital to Analog Converter (DAC)
+# Design and Implementation of a 10-bit R-2R DAC Using 7nm FinFET Technology with Open-Source Tools
 
 ## Table of Contents
 - ASAP 7nm PDK
@@ -23,6 +23,7 @@
 - Technology: FinFET
 - Process Node: ASAP7nm PDK
 - Components: Operational Amplifier(Opamp), Resistor Ladder(R2R)
+- Tools used: Xschem, Ngspice (Opensource)
 
 
 ## Project Overview:
