@@ -46,7 +46,7 @@
 
 ![prasa6-p6-prasa-large](https://github.com/user-attachments/assets/12b9db05-1492-4adb-8547-f73862aeefbe)
 
-#### Circuit diagram of 10-bit R-2R DAC:
+#### Circuit diagram of N-bit R-2R DAC:
  
 ![Fig2-DAC-Circuits](https://github.com/user-attachments/assets/741c69af-22da-4b54-8807-35c5f4e62fab)
 
@@ -92,7 +92,7 @@
 | 3             | RES    | Resolution| 10        | bit   |
 | 4             | TEMP       | Operating Temperature  | 27      | °C    |
 | 5             | TNOM     | Nominal Temperature    | 27      | °C    |
-| 6             | VDD         | Power supply voltage               | 0.7      | V     |
+| 6             | VDD         | Supply voltage               | 0.7      | V     |
 | 7             | I_VDD       | Average current drawn from VDD     | 6.83e-05 | A     |
 | 8             | P_total     | Total power consumption            | 47.83   | μW    |
 | 9             | VOUT      | Full-scale output voltage of DAC    | 0.607       | V   |
