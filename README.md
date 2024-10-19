@@ -59,10 +59,13 @@
 
 ## Schematics, Netlist and Simulations:
 
+<details>
+  <summary>Click to expand the Schematics, Netlist and Simulations </summary>
+
+
 ### 1) Op-Amp:
 
-<details>
-  <summary>Click to expand the Op-Amp section</summary>
+
 
 #### *Schematic:*
 
@@ -268,14 +271,13 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 
 - From the above waveform, Gain of the Op-Amp = 3.355.
 
-<details>
+
 
 
 
 ### 2) 4-bit R2R DAC:
 
-<details>
-  <summary>Click to expand the 4-bit R2R DAC section</summary>
+
 
 #### *Schematic:*
 
@@ -523,15 +525,13 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 #### *Simulated waveform:*
 ![Screenshot from 2024-10-14 21-34-45](https://github.com/user-attachments/assets/4c5274e7-f1da-407c-a509-aeacfbdf0d07)
 
-<details>
 
 
 
 
 ### 3) 10-bit R2R DAC:
 
-<details>
-  <summary>Click to expand the 10-bit R2R DAC section</summary>
+
 
 #### *Schematic:*
 
