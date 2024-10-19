@@ -68,8 +68,6 @@
 
 #### *Generated Netlist of Op-Amp:*
 
-<details>
-  <summary>Click to expand the Generated Netlist of Op-Amp section</summary>
 
 ```
 ** sch_path: /home/aman/asap_7nm_Xschem/opamp.sch
@@ -259,7 +257,7 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 .end
 
 ```
-<details>
+
 
 
 #### *Simulated waveform*
@@ -282,7 +280,7 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 <details>
   <summary>Click to expand the Generated Netlist of 4-bit R2R DAC section</summary>
 
-```
+
 
 ** sch_path: /home/aman/asap_7nm_Xschem/r2r_4b.sch
 **.subckt r2r VOUT
@@ -513,7 +511,7 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 **** end user architecture code
 .end
 
-```
+
 
 <details>
 
