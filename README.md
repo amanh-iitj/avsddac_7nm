@@ -289,8 +289,8 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 
 
 
-
 ```
+
 ** sch_path: /home/aman/asap_7nm_Xschem/r2r_4b.sch
 **.subckt r2r VOUT
 *.iopin VOUT
@@ -303,23 +303,7 @@ R4 net6 net4 2k m=1
 R5 net1 net2 1k m=1
 R6 net2 net3 1k m=1
 R7 net3 net4 1k m=1
-R8 net4 net5 1k m=1
-
-R9 net13 net5 2k m=1
-R10 net12 net16 2k m=1
-R11 net11 net17 2k m=1
-R12 net10 net18 2k m=1
-
-R13 net15 net19 2k m=1
-R14 net14 net20 2k m=1
-
-R15 net5 net16 1k m=1
-R16 net16 net17 1k m=1
-R17 net17 net18 1k m=1
-R18 net18 net19 1k m=1
-R19 net19 net20 1k m=1
-R20 net20 GND 2k m=1
-
+R8 net4 net5 2k m=1
 
 V_D0 net5 GND PULSE(0 0.7 0 1n 1n 1u 2u);
 
@@ -372,7 +356,6 @@ I0 VDD net4 20u
 run
 plot (V(VOUT)+4) V(net5) (V(net6)+1) (V(net7)+2) (V(net8)+3);
 .endc
-
 
 
 .model BSIMCMG_osdi_P BSIMCMG_va (
