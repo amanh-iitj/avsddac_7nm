@@ -4,7 +4,7 @@
 - ASAP 7nm PDK
 - Design Specifications
 - Project Overview
-- Simulations and Results
+- Schematics, Netlist and Simulations
 - Design Characterization
 - Conclusion
 - References
@@ -66,10 +66,10 @@
 ![Screenshot from 2024-10-19 13-28-40](https://github.com/user-attachments/assets/acff7135-fbc4-4cd2-9fea-b8ec327ed678)
 
 
-#### *Generated Netlist:*
+#### *Generated Netlist of Op-Amp:*
 
 <details>
-  <summary>Click to expand the Generated Netlist section</summary>
+  <summary>Click to expand the Generated Netlist of Op-Amp section</summary>
 
 ```
 ** sch_path: /home/aman/asap_7nm_Xschem/opamp.sch
@@ -277,10 +277,10 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 
 
 
-#### *Generated Netlist:*
+#### *Generated Netlist of 4-bit R2R DAC:*
 
 <details>
-  <summary>Click to expand the Generated Netlist section</summary>
+  <summary>Click to expand the Generated Netlist of 4-bit R2R DAC section</summary>
 
 ```
 
@@ -529,10 +529,10 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 ![Screenshot from 2024-10-19 13-24-08](https://github.com/user-attachments/assets/49b2e332-1afe-46ac-8f96-5986c38d3f02)
 
 
-#### *Generated Netlist:*
+#### *Generated Netlist of 10-bit R2R DAC:*
 
 <details>
-  <summary>Click to expand the Generated Netlist section</summary>
+  <summary>Click to expand the Generated Netlist of 10-bit R2R DAC section</summary>
 
 ```
 
