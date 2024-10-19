@@ -840,7 +840,8 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 - [DAC Circuits - Analog CMOS Design](https://www.electronics-tutorial.net/Analog-CMOS-Design/Signal-Conditioning/DAC-Circuits/)
 
 ## Acknowledgement: 
-- Kunal Ghosh, Co-Founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
-- Dr. Skandha Deepsita, Physical Design Consultant, VLSI System Design (VSD) Corp. Pvt. Ltd.
-- Jossan Eden, Consultant, VLSI System Design (VSD) Corp. Pvt. Ltd.
+- [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsi/) — Co-Founder of VLSI System Design (VSD) Corp. Pvt. Ltd.
+- [Dr. Skandha Deepsita](https://www.linkedin.com/in/skandha-deepsita/) — Physical Design Consultant, VLSI System Design (VSD) Corp. Pvt. Ltd.
+- [Jossan Eden](https://www.linkedin.com/in/jossan-eden/) — Consultant, VLSI System Design (VSD) Corp. Pvt. Ltd.
+
 
