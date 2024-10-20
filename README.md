@@ -59,10 +59,6 @@
 
 ## Schematics, Netlist and Simulations:
 
-<details>
-  <summary>Click to expand the Schematics, Netlist and Simulations </summary>
-
-
 ### 1) Op-Amp:
 
 
@@ -788,7 +784,7 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 ![Screenshot from 2024-10-15 00-39-41](https://github.com/user-attachments/assets/8426bb28-919b-467e-bc2f-6941197fb819)
 
 
-</details>
+
 
 
 
