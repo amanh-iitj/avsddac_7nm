@@ -808,6 +808,15 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 
 
 
+## Layout:
+
+### N-finfet layout:
+![Screenshot from 2024-11-02 01-49-57](https://github.com/user-attachments/assets/2775050f-e847-4988-a0ea-59c30c28d947)
+
+
+
+
+
 ## Conclusion:
 - In this project, I successfully designed and implemented a 10-bit R2R Digital-to-Analog Converter (DAC) using the ASAP7 7nm FinFET PDK. The design integrates an R2R resistor ladder architecture with a CMOS 2-stage operational amplifier (Op-Amp) to achieve accurate and efficient digital-to-analog conversion.
  
