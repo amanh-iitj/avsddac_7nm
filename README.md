@@ -808,11 +808,6 @@ pre_osdi /home/aman/asap_7nm_Xschem/bsimcmg.osdi
 
 
 
-## Layout:
-
-### N-finfet layout:
-![Screenshot from 2024-11-02 01-49-57](https://github.com/user-attachments/assets/2775050f-e847-4988-a0ea-59c30c28d947)
-
 
 
 
